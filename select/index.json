@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜明けの先に",
+  "base_artist": "Bray me",
+  "createdAt": "2026-01-14T00:02:02.507286Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明けの先に",
+      "artist": "Bray me",
+      "has_synced": false,
+      "path": "select/pl_01_夜明けの先に_Bray_me.txt"
+    }
+  ]
+}
